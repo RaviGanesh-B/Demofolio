@@ -1,7 +1,7 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+import project1 from "../projects/project-1.jpg";
+import project2 from "../projects/project-2.jpg";
+import project3 from "../projects/project-3.jpg";
+import project4 from "../projects/project-4.jpg";
 
 export const HERO_CONTENT = ` Raviganesh is a B.E. (CSE) graduate and a passionate full-stack developer at the start of his career. Proficient in both front-end and back-end technologies, he enjoys building efficient, scalable, and user-friendly web applications. With a strong commitment to continuous learning and staying updated with the latest industry trends, Raviganesh aims to deliver innovative and impactful solutions. He is eager to contribute to exciting projects and grow as a developer in the tech space.`;
 

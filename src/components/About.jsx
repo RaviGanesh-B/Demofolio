@@ -2,13 +2,16 @@ import React from "react";
 
 const About = () => {
     return(
-      <div className="border-b border-neutral-900 pb-400">
-      <h2 className="my-20 text-center text-4xl">About
-        <span className="text-neutral-500"> Me</span>
+      <div className="border-b border-neutral-900 pb-4">
+        <h1>About</h1>
+        
+        <div>
+            <div>
 
-      </h2>
+            </div>
+        </div>
       </div>
     )
-} 
+}
 
 export default About;
